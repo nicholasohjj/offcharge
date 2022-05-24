@@ -24,7 +24,7 @@ body{
     --bgbtn: #0c1d37;
     --hov : #2F8F9D;
     --bgdoc : #B3E8E5;
-    --bgdiff : #82DBD8;
+    --bgdiff : white;
 
     --navfont : 1.6rem;
     --logofont : 2rem;
