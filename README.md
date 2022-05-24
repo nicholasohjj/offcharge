@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://offcharge.netlify.app/"><img src="images/readme/logo.png" alt="OffCharge" width="200"></a>
+  <a href="https://offcharge.netlify.app/"><img src=images/readme/logo.png alt="OffCharge" width="200"></a>
   <br>
     OffCharge
   <br>
