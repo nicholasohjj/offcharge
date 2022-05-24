@@ -18,12 +18,12 @@ body{
 /* -----------value---------------- */
 
 :root{
-    --bg:#fdf8f4;
+    --bg:#B3E8E5;
     --black1: #0c1d37;
     --bgspan: rgba(255, 101, 1, 0.12);
     --bgbtn: #0c1d37;
     --hov : #2F8F9D;
-    --bgdoc : #fbf2eb;
+    --bgdoc : #B3E8E5;
     --bgdiff : #82DBD8;
 
     --navfont : 1.6rem;
@@ -110,7 +110,7 @@ header{
     height: 100vh;
     top: 0;
     left: 0;
-    background-color: #abf9ff;
+    background-color: #B3E8E5;
     overflow: hidden;
     z-index: 1000;
     animation: show-menu 0.5s ease-in-out both;
@@ -136,7 +136,7 @@ header{
     width: 100%;
 }
 .show.full ul li a{
-    color: white;
+    color: B3E8E5;
 }
 .join-btns{
     display: flex;
@@ -189,11 +189,11 @@ header{
     background-color: rgb(12, 29, 55);
 }
 .signup:hover a{
-    color: white;
+    color: #B3E8E5;
     transition: 0.5s;
 }
 .btn:hover{
-    color: white;
+    color: #B3E8E5;
     background-color: var(--hov);
 }
 
@@ -555,7 +555,7 @@ header{
     color: var(--hov);
     margin-right: 2rem;
     padding: 1rem;
-    background-color: #fdfdfd;
+    background-color: #B3E8E5;
     border-radius: 50%;
 }
 
@@ -591,7 +591,7 @@ header{
 .user-log{
     padding: 1rem;
     border-radius: 50%;
-    background-color: #fdfdfd;
+    background-color: #B3E8E5;
     margin-right: 1rem;
 }
 .review-name{
