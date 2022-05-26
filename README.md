@@ -34,7 +34,8 @@ This website was forked and modified from the [Rohit-singh19/Website-template](h
 * Icons: [Font Awesome](https://fontawesome.com/icons)
 * Video Hosting: [Wistia](https://wistia.com/)
 * Appointment Scheduling: [Calendly](https://calendly.com/)
-* Support Infrastructure: [Freshdesk](https://freshdesk.com/)
+* Email: [Freshdesk](https://freshdesk.com/)
+* Live Chat & Support [respond.io](https://respond.io/)
 
 ## License
 
