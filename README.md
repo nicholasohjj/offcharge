@@ -30,6 +30,7 @@ You can preview OffCharge [here](https://offcharge.netlify.app/).
 This website was forked and modified from the [Rohit-singh19/Website-template](https://github.com/Rohit-singh19/Website-template) repository and was deployed to the internet with [Netlify](https://www.netlify.com/).
 
 * 3D Models: [SketchUp](https://www.sketchup.com/)
+* Map SDK: [Mapbox](https://www.mapbox.com/)
 * Icons: [Font Awesome](https://fontawesome.com/icons)
 * Video Hosting: [Wistia](https://wistia.com/)
 * Appointment Scheduling: [Calendly](https://calendly.com/)
