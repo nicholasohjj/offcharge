@@ -16,7 +16,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](Images/readme/front-page-screenshot.png)
+![screenshot](Images/readme/front-page.png)
 
 ## About OffCharge
 Every day, thousands of ships crisscross the oceans, carrying everything from cars to food to passengers. But with each voyage, more fossil fuel is burnt as fuel, releasing more greenhouse gases into the environment. With a revamped effort  by the international community to reduce the carbon footprint of the maritime industry, there has been a gradual shift towards the use of electric ships. Whilst several fully-electric ships currently exist in service globally, adoption of such ships has been slow due to existing limitations in charging technology. Poor battery capacity renders fully-electric ships from travelling long-haul, as they require charging or change of batteries ever so often.
